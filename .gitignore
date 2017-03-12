@@ -1,47 +1,24 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+*.iml
+*.ipr
+*.iws
+.git/
+.gradle/
+.idea/
+.settings/
+assets/
+build/
+eclipse/
+idea/
+libs/
+.classpath
+.project
+CREDITS-fml.txt
+forge-1.7.10-10.13.0.1180-changelog.txt
+LICENSE-fml.txt
+MinecraftForge-Credits.txt
+MinecraftForge-License.txt
+README.txt
+out/
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# Who made this messy crap? Whatever.
+!/fsplib/*.jar
